@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(51,58,64);
+}
+
+.hero-top {
+  background: url("../images/header_image.jpeg") no-repeat center center;
+  background-size: cover;
+}
+
+.page-footer {
+  background-color: rgb(152,156,159);
+}
